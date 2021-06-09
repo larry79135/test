@@ -6,6 +6,6 @@ def isPrime(n):
         
     if n % i == 0: 
         return "不是質數!!!!!"
-  return "是質數!!!!!!11112233"
+  return "是質數!!!!!!111122334444"
 p=isPrime(n)
 print(p)  
